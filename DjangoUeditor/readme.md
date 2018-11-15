@@ -5,7 +5,7 @@ DjangoUeditor的具体使用见下面，这里说明在xadmin文件夹下的操�
 这时还会报错，注释掉/usr/local/lib/pyon3.7/site-packages/django/forms/boundfield.py中的大概93行
 #renderer=self.form.renderer,
 配置操作到此结束
-************************
+**************************
 本模块帮助在Django应用中集成百度Ueditor HTML编辑器,Django是Python世界最有影响力的web框架。
 Ueditor HTML编辑器是百度开源的在线HTML编辑器,功能非常强大，像表格可以直接拖动调整单元格大小等。
 
